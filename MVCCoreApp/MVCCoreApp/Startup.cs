@@ -28,6 +28,7 @@ namespace MVCCoreApp
             services.AddControllersWithViews();
 
 
+            services.AddScoped<IRepository<Product>, ProductsRepository>();
 
         }
 
