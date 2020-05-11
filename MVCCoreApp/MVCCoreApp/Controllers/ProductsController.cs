@@ -33,4 +33,21 @@ namespace MVCCoreApp.Controllers
             return View(viewModel);
         }
 
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<ActionResult> Create(ProductDto productDto)
+        {
+            if (ModelState.IsValid)
+            {
+                var product = _mapper.Map<Product>(productDto);
+                await _productsRepository.AddAsync(product);
+                return RedirectToAction("Index");
+            }
+
+            return View(productDto);
+        }
 }
