@@ -33,6 +33,18 @@ namespace MVCCoreApp.Controllers
             return View(viewModel);
         }
 
+        public IActionResult FromJson()
+        {
+            var folderDetails = Path.Combine(Directory.GetCurrentDirectory(), $"wwwroot\\{"Json\\products.json"}");
+            var json = System.IO.File.ReadAllText(folderDetails);
+            var products = JsonConvert.DeserializeObject<List<Product>>(json);
+            var viewModel = new ProductsViewModel
+            {
+                Products = products
+            };
+            return View("Index", viewModel);
+        }
+
         public IActionResult Create()
         {
             return View();
@@ -73,4 +85,5 @@ namespace MVCCoreApp.Controllers
 
             return RedirectToAction("Index");
         }
+    }
 }

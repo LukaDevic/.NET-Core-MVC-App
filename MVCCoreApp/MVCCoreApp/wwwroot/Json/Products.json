@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "8e72db5a-bf4b-4011-8060-38b204f7e1a4",
+    "Name": "Product1",
+    "Description": "Blue Shirt",
+    "Category": "Clothes",
+    "Manufacturer": "Zara",
+    "Supplier": "Zara",
+    "Price": 1.00
+  },
+  {
+    "Id": "dcec3585-185e-4927-88c4-69bc0f6e1ae7",
+    "Name": "Product2",
+    "Description": "Red Shirt",
+    "Category": "Clothes",
+    "Manufacturer": "Product2",
+    "Supplier": "Product2",
+    "Price": 3.00
+  }
+]
