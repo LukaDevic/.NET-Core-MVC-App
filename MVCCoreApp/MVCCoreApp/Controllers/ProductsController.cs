@@ -50,4 +50,27 @@ namespace MVCCoreApp.Controllers
 
             return View(productDto);
         }
+
+        public async Task<IActionResult> Edit(Guid id)
+        {
+            var productFromDb = await _productsRepository.GetAsync(id);
+            if(productFromDb == null)
+            {
+                return NotFound();
+            }
+
+            return View(productFromDb);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Edit(Product product)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(product);
+            }
+            await _productsRepository.UpdateAsync(product);
+
+            return RedirectToAction("Index");
+        }
 }
