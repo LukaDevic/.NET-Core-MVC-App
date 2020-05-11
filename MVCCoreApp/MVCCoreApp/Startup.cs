@@ -27,6 +27,7 @@ namespace MVCCoreApp
         {
             services.AddControllersWithViews();
 
+            services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
             services.AddScoped<IRepository<Product>, ProductsRepository>();
 
