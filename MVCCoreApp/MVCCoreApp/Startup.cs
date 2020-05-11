@@ -30,6 +30,11 @@ namespace MVCCoreApp
 
             services.AddScoped<IRepository<Product>, ProductsRepository>();
 
+            services.AddDbContext<ProductsContext>(options =>
+            {
+                options.UseSqlServer(
+                    Configuration.GetConnectionString("Default"));
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
