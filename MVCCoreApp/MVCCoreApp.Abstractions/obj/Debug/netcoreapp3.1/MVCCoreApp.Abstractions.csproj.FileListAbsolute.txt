@@ -1,0 +1,9 @@
+C:\Users\Luka Devic\Desktop\GitHub\.NET-Core-MVC-App\MVCCoreApp\MVCCoreApp.Abstractions\bin\Debug\netcoreapp3.1\MVCCoreApp.Abstractions.deps.json
+C:\Users\Luka Devic\Desktop\GitHub\.NET-Core-MVC-App\MVCCoreApp\MVCCoreApp.Abstractions\bin\Debug\netcoreapp3.1\MVCCoreApp.Abstractions.dll
+C:\Users\Luka Devic\Desktop\GitHub\.NET-Core-MVC-App\MVCCoreApp\MVCCoreApp.Abstractions\bin\Debug\netcoreapp3.1\MVCCoreApp.Abstractions.pdb
+C:\Users\Luka Devic\Desktop\GitHub\.NET-Core-MVC-App\MVCCoreApp\MVCCoreApp.Abstractions\obj\Debug\netcoreapp3.1\MVCCoreApp.Abstractions.csprojAssemblyReference.cache
+C:\Users\Luka Devic\Desktop\GitHub\.NET-Core-MVC-App\MVCCoreApp\MVCCoreApp.Abstractions\obj\Debug\netcoreapp3.1\MVCCoreApp.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\Luka Devic\Desktop\GitHub\.NET-Core-MVC-App\MVCCoreApp\MVCCoreApp.Abstractions\obj\Debug\netcoreapp3.1\MVCCoreApp.Abstractions.AssemblyInfoInputs.cache
+C:\Users\Luka Devic\Desktop\GitHub\.NET-Core-MVC-App\MVCCoreApp\MVCCoreApp.Abstractions\obj\Debug\netcoreapp3.1\MVCCoreApp.Abstractions.AssemblyInfo.cs
+C:\Users\Luka Devic\Desktop\GitHub\.NET-Core-MVC-App\MVCCoreApp\MVCCoreApp.Abstractions\obj\Debug\netcoreapp3.1\MVCCoreApp.Abstractions.dll
+C:\Users\Luka Devic\Desktop\GitHub\.NET-Core-MVC-App\MVCCoreApp\MVCCoreApp.Abstractions\obj\Debug\netcoreapp3.1\MVCCoreApp.Abstractions.pdb

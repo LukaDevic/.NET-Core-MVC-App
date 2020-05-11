@@ -1,0 +1,15 @@
+C:\Users\Luka Devic\Desktop\GitHub\.NET-Core-MVC-App\MVCCoreApp\MVCCoreApp.Data\obj\Debug\netcoreapp3.1\MVCCoreApp.Data.csprojAssemblyReference.cache
+C:\Users\Luka Devic\Desktop\GitHub\.NET-Core-MVC-App\MVCCoreApp\MVCCoreApp.Data\obj\Debug\netcoreapp3.1\MVCCoreApp.Data.AssemblyInfoInputs.cache
+C:\Users\Luka Devic\Desktop\GitHub\.NET-Core-MVC-App\MVCCoreApp\MVCCoreApp.Data\obj\Debug\netcoreapp3.1\MVCCoreApp.Data.AssemblyInfo.cs
+C:\Users\Luka Devic\Desktop\GitHub\.NET-Core-MVC-App\MVCCoreApp\MVCCoreApp.Data\bin\Debug\netcoreapp3.1\MVCCoreApp.Data.deps.json
+C:\Users\Luka Devic\Desktop\GitHub\.NET-Core-MVC-App\MVCCoreApp\MVCCoreApp.Data\bin\Debug\netcoreapp3.1\MVCCoreApp.Data.dll
+C:\Users\Luka Devic\Desktop\GitHub\.NET-Core-MVC-App\MVCCoreApp\MVCCoreApp.Data\bin\Debug\netcoreapp3.1\MVCCoreApp.Data.pdb
+C:\Users\Luka Devic\Desktop\GitHub\.NET-Core-MVC-App\MVCCoreApp\MVCCoreApp.Data\bin\Debug\netcoreapp3.1\MVCCoreApp.Abstractions.dll
+C:\Users\Luka Devic\Desktop\GitHub\.NET-Core-MVC-App\MVCCoreApp\MVCCoreApp.Data\bin\Debug\netcoreapp3.1\MVCCoreApp.Abstractions.pdb
+C:\Users\Luka Devic\Desktop\GitHub\.NET-Core-MVC-App\MVCCoreApp\MVCCoreApp.Data\obj\Debug\netcoreapp3.1\MVCCoreApp.Data.csproj.CopyComplete
+C:\Users\Luka Devic\Desktop\GitHub\.NET-Core-MVC-App\MVCCoreApp\MVCCoreApp.Data\obj\Debug\netcoreapp3.1\MVCCoreApp.Data.dll
+C:\Users\Luka Devic\Desktop\GitHub\.NET-Core-MVC-App\MVCCoreApp\MVCCoreApp.Data\obj\Debug\netcoreapp3.1\MVCCoreApp.Data.pdb
+C:\Users\Luka Devic\Desktop\GitHub\.NET-Core-MVC-App\MVCCoreApp\MVCCoreApp.Data\bin\Debug\netcoreapp3.1\MVCCoreApp.Data.runtimeconfig.json
+C:\Users\Luka Devic\Desktop\GitHub\.NET-Core-MVC-App\MVCCoreApp\MVCCoreApp.Data\bin\Debug\netcoreapp3.1\MVCCoreApp.Data.runtimeconfig.dev.json
+C:\Users\Luka Devic\Desktop\GitHub\.NET-Core-MVC-App\MVCCoreApp\MVCCoreApp.Data\obj\Debug\netcoreapp3.1\MVCCoreApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Luka Devic\Desktop\GitHub\.NET-Core-MVC-App\MVCCoreApp\MVCCoreApp.Data\obj\Debug\netcoreapp3.1\MVCCoreApp.Data.genruntimeconfig.cache
